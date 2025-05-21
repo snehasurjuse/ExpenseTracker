@@ -24,7 +24,7 @@ A simple **console-based expense tracker** built in Java. This app allows you to
 1. Open terminal/command prompt
 2. Navigate to the folder with your `.java` files:
 
-1. compile both the files
+1. compile both the files: 
    javac Transaction.java ExpenseTracker.java
-2. Run the program
+2. Run the program: 
     java ExpenseTracker
